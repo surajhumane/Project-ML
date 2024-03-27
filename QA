@@ -1,1 +1,11 @@
-Q
+1) git init
+2) git clone <URL>
+3) git branch --show-current
+4) git checkout dev
+5) git checkout -b featutre_name_march_sp1
+6) git branch
+7) status
+git status
+8) git add file_name
+9) git commit -m ""Data ingestion flow"
+10) git push
